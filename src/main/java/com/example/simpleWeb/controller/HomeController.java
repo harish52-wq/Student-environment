@@ -9,5 +9,4 @@ public class HomeController {
     public String controller(){
         return "Hello World";
     }
-
 }
